@@ -1,2 +1,2 @@
 print("Welcome to TECH SCREEN!")
-print("Hi")
+print("Hi there")
